@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templatesx
+and open the template in the editor.
+*/
+/* 
+    Created on : 13-feb-2020, 11.59.06
+    Author     : ieser
+*/
+a{color:black;}
+.main-menu{font-weight:400;margin:14px 0px 0px 18px;font-size:2em;}
+.sidenav-overlay {
+    left: 300px;
+}
+.main-background{overflow:hidden;width: 100%;background:url(/img/background.jpg);background-size:contain;}
+div.main-background div.webber101{height:100%;padding-left:40px}
+.webber101 h1, .webber101 h1 span{font-family: 'Squada One', cursive;text-transform: uppercase;font-size:6em;    line-height: 0.75;}
+.webber101 h1 span{font-size:3em;}
+.h100{ height:calc(100vh - 56px);margin-bottom:0px }
+
+@media screen and (min-width: 600px) {
+    .skew-mid-and-up { transform: skew(20deg); }
+    .h100{height:100vh;}
+    div.main-background div.webber101{padding-right: 100%;
+        float: right;
+        margin-right: -50%;
+    }
+}

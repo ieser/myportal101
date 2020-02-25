@@ -1,0 +1,6 @@
+{
+    "require": {
+        "bcosca/fatfree": "dev-master"
+        
+    }
+}
