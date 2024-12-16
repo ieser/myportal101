@@ -1,5 +1,8 @@
 {
   "version": "0.0.2",
-  "features": { "Added update option", "Minor bug fix" },
-  "description" : "Now users can update the core of the application from web"
+  "features": [
+    "Added update option",
+    "Minor bug fix"
+  ],
+  "description": "Now users can update the core of the application from web"
 }
