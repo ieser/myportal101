@@ -1,0 +1,9 @@
+{
+    "name": "ieser/myportal101",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/"
+        }
+    }
+}
